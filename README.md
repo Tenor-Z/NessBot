@@ -13,9 +13,9 @@ enemy.
 Note: This only works with Snes9x (ZSnes isn't relatively used anymore)
 
 # Installation and Usage
--Download the Python modules in Requirements.txt
--Install ImageMagick (the binary)
--Install Tessarect
--Run your Earthbound rom on Snes9x
--Go to a spot to grind
--Run the nessbot.py script and await your results!!
+* Download the Python modules in Requirements.txt
+* Install ImageMagick (the binary)
+* Install Tessarect
+* Run your Earthbound rom on Snes9x
+* Go to a spot to grind
+* Run the nessbot.py script and await your results!!
